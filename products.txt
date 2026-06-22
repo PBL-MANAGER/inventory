@@ -1,5 +1,7 @@
 mobile phone 
-laptop 
+Business laptop 
+Gaming laptop 
 camera 
 tripod 
-
+printer
+scanner
